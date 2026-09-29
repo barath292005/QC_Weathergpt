@@ -1,0 +1,7 @@
+{
+  "name": "WeatherGPT",
+  "description": "AI-Powered Impact-Based Weather Intelligence & Hazard Risk Assessment Platform",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
